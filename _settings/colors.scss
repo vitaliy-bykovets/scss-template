@@ -1,0 +1,32 @@
+/* 
+   Colors
+   ========================================================================== */
+
+$primary-color: #000;
+$secondary-color: #000;
+$tertiary-color: #000;
+
+$accent-color: #000;
+$highlight-color: #000;
+$emphasize-color: #000;
+
+$info-color: blue;
+$warning-color: yellow;
+$danger-color: red;
+$success-color: green;
+
+$helper-color: #000;
+$minor-color: #000;
+$inverse-color: #fff;
+$neutral-color: #f5f5f5;
+
+/* color variations */
+$neutral-light-color: #f5f5f5;
+$neutral-dark-color: #f5f5f5;
+$accent-light-color: lighten( $accent-color, 10% );
+$accent-dark-color: darken( $accent-color, 10% );
+
+/**
+ * SCSS calculator to get one color from another
+ * http://razorltd.github.io/sasscolourfunctioncalculator/
+ */
