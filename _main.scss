@@ -1,34 +1,21 @@
-/* 
-   Main file to connect all structural pieces
-   ========================================================================== */
+// ==========================================================================
+// Main file to connect all structural pieces
+// ==========================================================================
 
-/**
- * Settings
- */
+// Settings
 @import '_settings/color';
 @import '_settings/typography';
 @import '_settings/layout';
 
-/**
- * Tools
- */
+// Tools
+@import '_tools/mixins';
 
-/**
- * Generic
- */
+// Generic
 
-/**
- * Elements
- */
+// Elements
 
-/**
- * Objects
- */
+// Objects
 
-/**
- * Components
- */
+// Components
 
-/**
- * Utilities
- */
+// Utilities
