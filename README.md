@@ -12,8 +12,8 @@ Uses ITCSS, BEMIT techniques
  - **Utilities** – utilities and helper classes with ability to override anything which goes before in the triangle, eg. hide helper class
 
 ## Helper links
-[ITCSS: Scalable and maintainable css architecture](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
-[BEMIT: Taking the BEM Naming Convention a Step Further](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
-[Sass functions cheat sheet](https://gist.github.com/AllThingsSmitty/3bcc79da563df756be46)
-[Seed](http://developer.helpscout.net/seed/)
-[SCSS color calculator](http://razorltd.github.io/sasscolourfunctioncalculator/)
+ - [ITCSS: Scalable and maintainable css architecture](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
+ - [BEMIT: Taking the BEM Naming Convention a Step Further](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
+ - [Sass functions cheat sheet](https://gist.github.com/AllThingsSmitty/3bcc79da563df756be46)
+ - [Seed](http://developer.helpscout.net/seed/)
+ - [SCSS color calculator](http://razorltd.github.io/sasscolourfunctioncalculator/)
