@@ -1,5 +1,5 @@
 //
-// Colors
+// Color variables
 // ==========================================================================
 
 $primary-color: #000;
@@ -28,3 +28,10 @@ $accent-dark-color: darken( $accent-color, 10% );
 
 // SCSS calculator to get one color from another
 // http://razorltd.github.io/sasscolourfunctioncalculator/
+
+
+//
+// Colors for specific elements
+// ==========================================================================
+$color-link: $secondary-color;
+$color-link-hover: $accent-color
